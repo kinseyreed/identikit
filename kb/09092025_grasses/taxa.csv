@@ -73,7 +73,7 @@ Festuca arundinacea x Lolium perenne/Festulolium,Bunch,[18-36],n/a,n/a,n/a,n/a,F
 Lolium perenne/Perennial ryegrass,Bunch,[12-24],n/a,n/a,n/a,n/a,Folded,Round | Slightly compressed,Small,[0.6-2.0],[3.0-6.0],Membranous,Truncate | Rounded,?,Green | Dark green,"Split, margins overlapping",None,,n/a,[Narrow - Med Broad],Divided,None,,[Smooth - Rough],,Smooth,,Smooth
 Lolium multiflorum/Annual ryegrass,Bunch,[24-36],n/a,n/a,n/a,n/a,Rolled,Round,Small,[1.0-2.0],[3.0-10.0],Membranous,Truncate | Rounded,?,Green | Dark green,"Split, margins overlapping",None,,n/a,Broad,Divided,None,,Smooth,,Smooth,,Smooth
 Miscanthus sinensis/Chinese silver grass,Bunch,[48-84],n/a,Y,,n/a,Rolled,Round,Small,[2.5-3.0],[8.0-18.0],Membranous,Rounded,Ciliate,Green,"Split, margins overlapping",None,,Margins Hairy,Broad,Divided,,,[Smooth - Rough],[None - Sparse long],Smooth,,Rough
-Elymus repens/Quackgrass,Rhizomatous,[24-36],Blue,n/a,,n/a,Rolled,Round,Small | Absent,[0.25-1.5],[2.0-12.0],Membranous,Truncate | Rounded,Toothed | Ciliate  | Entire,Blue-green | Light green | Green ,"Split, margins overlapping",None | Dense short,Hairy only at base,?,?,?,[None - Sparse short],,[Smooth - Rough],None | Sparse short | Dense short,Smooth,None | Sparse short | Dense short,Rough
+Elymus repens/Quackgrass,Rhizomatous,[24-36],Blue,n/a,,n/a,Rolled,Round,Small | Absent | Clasping,[0.25-1.5],[2.0-12.0],Membranous,Truncate | Rounded,Toothed | Ciliate  | Entire,Blue-green | Light green | Green ,"Split, margins overlapping",None | Dense short,Hairy only at base,?,?,?,[None - Sparse short],,[Smooth - Rough],None | Sparse short | Dense short,Smooth,None | Sparse short | Dense short,Rough
 Festuce latior auct. Amer. aka Festuca pratensis/Meadow fescue,Bunch,[24-36],n/a,n/a,,n/a,Rolled,Round,Small | Clasping,[0.1-1.0],[2.0-6.0],Membranous,?,?,Light green,"Split, margins overlapping | Closed to near top",None,,?,Narrow,Divided,None,,[Smooth - Slightly rough],,Smooth,,Rough
 Thinopyrum intermedium/Intermediate Wheatgrass,Rhizomatous,[24-48],Blue,n/a,,n/a,Rolled,Round,Small | Clasping,[0.1-1.5],[4.0-9.5],Membranous,Truncate,Entire,Blue-green | Light green | Green ,"Split, margins overlapping ",None | Dense short,,?,Broad,Continuous,[None - Dense short],,[Smooth - Rough],,[Smooth - Rough],,Rough
 #Chasmanthium (pre. Uniola) latifolium/Inland wood oats,Bunch | Rhizomatous,[24-36],,n/a,,,?,,,,[5-20],,,,,,,,,,,,,,,,,Rough
@@ -1003,3 +1003,4 @@ Thinopyrum intermedium/Intermediate Wheatgrass,Rhizomatous,[24-48],Blue,n/a,,n/a
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
